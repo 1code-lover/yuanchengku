@@ -4,4 +4,4 @@
 444
 525
 55
-6
+Creating a new branch is quick AND simple.
